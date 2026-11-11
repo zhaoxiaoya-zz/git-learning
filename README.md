@@ -39,3 +39,4 @@ git reset --soft HEAD~1       # 撤销提交但保留改动
 git revert <sha>              # 撤销已推送的提交
 git reflog                    # 后悔药
 ```
+##我的第一条心得
